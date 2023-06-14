@@ -2,4 +2,4 @@ numpy
 tensorflow
 streamlit
 pandas
-python3-opencv
+opencv-python-headless
