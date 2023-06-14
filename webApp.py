@@ -7,7 +7,7 @@ import tensorflow as tf
 # fucntion to load the model
 def load_model():
     
-    model = tf.keras.models.load_model('C:/Users/Cash Crusaders/Desktop/My Portfolio/Projects/Data Science Projects/Deep Learning Project 1  - Corona Virus Detection ( Using Chest Xray Images)/model.h5')
+    model = tf.keras.models.load_model('model.h5')
     
     return model
 
